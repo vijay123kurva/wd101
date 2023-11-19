@@ -58,4 +58,3 @@ document.getElementById("registrationForm").addEventListener("submit", function 
 
 // Load saved data when the page loads
 window.onload = loadSavedData;
-
